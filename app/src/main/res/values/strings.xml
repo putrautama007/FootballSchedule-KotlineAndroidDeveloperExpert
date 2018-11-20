@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Football Schedule</string>
+    <string name="title_activity_main">Football Schedule</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous_match">Previous Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="favorite">Favorites</string>
+    <string name="favorite_match">Favorite Match</string>
+    <string name="favorite_team">Favorite Team</string>
+    <string name="shots">Shots</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="goals">Goals</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substituties">Substituties</string>
+    <string name="favorites">Favorites</string>
+    <string name="vs">VS</string>
+    <string name="match">Matchs</string>
+    <string name="teams">Teams</string>
+    <string name="match_detail">Match Detail</string>
+    <string name="detail_team">Team Detail</string>
+    <string name="overview">Overview</string>
+    <string name="player">Players</string>
+    <string name="wait">Still loading, please wait</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="player_detail">Player Detail</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+    </array>
+
+    <string name="english_pemier_league_match">4328</string>
+    <string name="english_league_championship_match">4329</string>
+    <string name="german_bundes_liga_match">4331</string>
+    <string name="italian_serie_A_match">4332</string>
+    <string name="french_ligue_1_match">4334</string>
+    <string name="spanish_la_liga_match">4335</string>
+
+    <string name="english_pemier_league">English Premier League</string>
+    <string name="english_league_championship">English League Championship</string>
+    <string name="german_bundes_liga">German Bundesliga</string>
+    <string name="italian_serie_A">Italian Serie A</string>
+    <string name="french_ligue_1">French Ligue 1</string>
+    <string name="spanish_la_liga">Spanish La Liga</string>
+
+    <string name="empty_input">empty_input</string>
+    <string name="search_match">Search Match</string>
+    <string name="search_team">Search Team</string>
+</resources>

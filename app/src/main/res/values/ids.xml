@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="match_date" type="id"/>
+    <item name="home_team" type="id"/>
+    <item name="match_score" type="id"/>
+    <item name="away_team" type="id"/>
+    <item name="detail_match" type="id"/>
+    <item name="detail_home_team" type="id"/>
+    <item name="detail_away_team" type="id"/>
+    <item name="detail_home_score" type="id"/>
+    <item name="detail_home_badge" type="id"/>
+    <item name="vs" type="id"/>
+    <item name="detail_away_score" type="id"/>
+    <item name="detail_away_badge" type="id"/>
+    <item name="goals" type="id"/>
+    <item name="detail_home_goals" type="id"/>
+    <item name="detail_away_goals" type="id"/>
+    <item name="shots" type="id"/>
+    <item name="detail_home_shots" type="id"/>
+    <item name="detail_away_shots" type="id"/>
+    <item name="goalkeeper" type="id"/>
+    <item name="defense" type="id"/>
+    <item name="detail_home_defense" type="id"/>
+    <item name="detail_away_defense" type="id"/>
+    <item name="midfield" type="id"/>
+    <item name="detail_home_midfield" type="id"/>
+    <item name="detail_away_midfield" type="id"/>
+    <item name="forward" type="id"/>
+    <item name="detail_home_goalkeeper" type="id"/>
+    <item name="detail_away_goalkeeper" type="id"/>
+    <item name="detail_home_forward" type="id"/>
+    <item name="detail_away_forward" type="id"/>
+    <item name="substitutes" type="id"/>
+    <item name="detail_home_substitutes" type="id"/>
+    <item name="detail_away_substitutes" type="id"/>
+    <item name="favorite_match_date" type="id"/>
+    <item name="favorite_match_score" type="id"/>
+    <item name="favorite_away_team" type="id"/>
+    <item name="favorite_home_team" type="id"/>
+    <item name="rv_prev_match" type="id"/>
+    <item name="rv_next_match" type="id"/>
+    <item name="rv_favorite_match" type="id"/>
+    <item name="cv_favorite_match" type="id" />
+    <item name="cv_match" type="id" />
+    <item name="match_tablayout" type="id" />
+    <item name="match_pager" type="id" />
+    <item name="favorite_tablayout" type="id" />
+    <item name="favorite_pager" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="rv_team" type="id" />
+    <item name="team_badge_favorite" type="id" />
+    <item name="team_name_favorite" type="id" />
+    <item name="rv_favorite_team" type="id" />
+    <item name="player_foto" type="id" />
+    <item name="player_name" type="id" />
+    <item name="palyer_position" type="id" />
+    <item name="rv_player" type="id" />
+    <item name="et_search_prev" type="id" />
+    <item name="et_search_next" type="id" />
+    <item name="et_search_team" type="id" />
+</resources>
